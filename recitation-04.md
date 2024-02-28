@@ -56,7 +56,7 @@ What is the problem that prevents us from easily parallelizing this solution?
 
 **Enter answer here**
 
-the porblrm is each count of term is depend on the previous count. If we use parallelizing, all count accessed at the same time. if we have two same term, it can't get the previous count.
+the problem is each count of term is depend on the previous count. If we use parallelizing, all count accessed at the same time. if we have two same term, it can't get the previous count.
 
 
 ## Part 2: Sentiment analysis
